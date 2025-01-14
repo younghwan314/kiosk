@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        // Scanner 를 사용하기 위한 코드
+        // Scanner 선언
         Scanner sc = new Scanner(System.in);
 
         // 햄버거 메뉴를 담을 리스트
